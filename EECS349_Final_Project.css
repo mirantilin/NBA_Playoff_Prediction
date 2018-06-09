@@ -19,14 +19,16 @@
 
 #detailed-center-text {
   text-align: justify;
+  margin: auto;
+  width: 50%;
 }
 
-#bar-graphs {
+img {
   width: 100%;
 }
 
-#confusion_matrix {
-  width: 100%;
+h4 {
+  margin-bottom: -10px;
 }
 
 #detailed-link {
